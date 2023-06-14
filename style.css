@@ -23,6 +23,13 @@ body {
     display: flex;
 }
 
+.stats-container:hover {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
 .stats-card {
     background-color: #a8b0bc;
     border-radius: 7px;
