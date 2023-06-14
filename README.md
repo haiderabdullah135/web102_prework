@@ -24,9 +24,9 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 
+https://imgur.com/a/R23jsq1
 
-
-<vid src='https://imgur.com/a/R23jsq1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://imgur.com/a/R23jsq1" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with LiceCap! 
